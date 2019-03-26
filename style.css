@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  background: rgb(238, 237, 237);
+  /* background: rgb(238, 237, 237); */
+  background-color: blanchedalmond;
   height: 100%;
   font-family: Roboto;
 }
@@ -15,7 +16,7 @@ main {
 }
 
 header {
-  background: rgb(17, 199, 159);
+  background: rgb(21, 185, 177);
   color:  white;
   padding: 5px;
   position: absolute;
@@ -101,7 +102,7 @@ h1 {
 }
 
 .close {
-  float: right;
+  float: right !important;
 }
 
 ul {
